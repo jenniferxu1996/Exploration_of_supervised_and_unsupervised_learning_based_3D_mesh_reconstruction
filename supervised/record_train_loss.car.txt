@@ -1,0 +1,78 @@
+# origin
+Start training, lr =  0.000010
+Epoch 1, loss 25.367384
+Epoch 2, loss 8.104185
+Start training, lr =  0.000010
+Epoch 1, loss 7.011322
+Epoch 2, loss 6.445216
+Epoch 3, loss 6.015478
+Start training, lr =  0.000010
+Epoch 1, loss 5.710190
+Start training, lr =  0.000010
+Epoch 1, loss 5.496683
+Epoch 2, loss 5.361600
+Epoch 3, loss 5.232516
+Epoch 4, loss 5.128480
+Epoch 5, loss 5.035790
+Epoch 6, loss 4.945005
+Epoch 7, loss 4.872646
+Epoch 8, loss 4.798421
+Epoch 9, loss 4.731591
+Start training, lr =  0.000010
+Epoch 1, loss 4.663383
+Epoch 2, loss 4.604640
+Epoch 3, loss 4.548666
+Epoch 4, loss 4.496490
+Epoch 5, loss 4.445189
+
+# feat - 1
+Start training, lr =  0.000010
+Epoch 1, loss 32.277435
+Epoch 2, loss 10.177217
+Epoch 3, loss 8.453341
+Start training, lr =  0.000010
+Epoch 1, loss 7.695023
+Epoch 2, loss 7.268739
+Epoch 3, loss 6.900846
+Start training, lr =  0.000010
+Epoch 1, loss 6.547698
+Epoch 2, loss 6.314158
+Epoch 3, loss 6.085692
+Epoch 4, loss 5.922653
+Epoch 5, loss 5.800613
+Epoch 6, loss 5.689637
+Epoch 7, loss 5.608084
+Epoch 8, loss 5.517444
+Epoch 9, loss 5.463057
+Epoch 10, loss 5.401456
+Epoch 11, loss 5.336122
+Epoch 12, loss 5.272687
+Epoch 13, loss 5.220945
+Epoch 14, loss 5.176461
+
+# block + 1
+Start training, lr =  0.000010
+Epoch 1, loss 31.360477
+Epoch 2, loss 9.576820
+Epoch 3, loss 8.213727
+Epoch 4, loss 7.438565
+Epoch 5, loss 6.993514
+Start training, lr =  0.000010
+Epoch 1, loss 6.652545
+Epoch 2, loss 6.400991
+Epoch 3, loss 6.188332
+Epoch 4, loss 6.010114
+Epoch 5, loss 5.872095
+Start training, lr =  0.000010
+Epoch 1, loss 5.744987
+Epoch 2, loss 5.639433
+Epoch 3, loss 5.534172
+Epoch 4, loss 5.443160
+Epoch 5, loss 5.356776
+Start training, lr =  0.000010
+Epoch 1, loss 5.279175
+Epoch 2, loss 5.206723
+Epoch 3, loss 5.136117
+Epoch 4, loss 5.077742
+Epoch 5, loss 5.017783
+
